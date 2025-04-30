@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shagun-code/leetcode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/shagun-code/leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/shagun-code/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shagun-code/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shagun-code/leetcode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/shagun-code/leetcode/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
