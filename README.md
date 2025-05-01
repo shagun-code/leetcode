@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shagun-code/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shagun-code/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shagun-code/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shagun-code/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -54,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shagun-code/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shagun-code/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
