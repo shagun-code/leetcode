@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shagun-code/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/shagun-code/leetcode/tree/master/0137-single-number-ii) |
 | [0455-assign-cookies](https://github.com/shagun-code/leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shagun-code/leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/shagun-code/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -63,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shagun-code/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/shagun-code/leetcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
