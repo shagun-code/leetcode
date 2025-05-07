@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/shagun-code/leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/shagun-code/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shagun-code/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1582-design-browser-history](https://github.com/shagun-code/leetcode/tree/master/1582-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,5 +70,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1582-design-browser-history](https://github.com/shagun-code/leetcode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shagun-code/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/shagun-code/leetcode/tree/master/1582-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/shagun-code/leetcode/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/shagun-code/leetcode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/shagun-code/leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
