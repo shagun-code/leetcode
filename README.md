@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/shagun-code/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/shagun-code/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shagun-code/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Sliding Window
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/shagun-code/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0455-assign-cookies](https://github.com/shagun-code/leetcode/tree/master/0455-assign-cookies) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shagun-code/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shagun-code/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0142-linked-list-cycle-ii](https://github.com/shagun-code/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [1582-design-browser-history](https://github.com/shagun-code/leetcode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shagun-code/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
