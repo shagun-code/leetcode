@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/shagun-code/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1073-number-of-enclaves](https://github.com/shagun-code/leetcode/tree/master/1073-number-of-enclaves) |
 | [1582-design-browser-history](https://github.com/shagun-code/leetcode/tree/master/1582-design-browser-history) |
+| [2591-frog-jump-ii](https://github.com/shagun-code/leetcode/tree/master/2591-frog-jump-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/shagun-code/leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/shagun-code/leetcode/tree/master/0890-lemonade-change) |
+| [2591-frog-jump-ii](https://github.com/shagun-code/leetcode/tree/master/2591-frog-jump-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/shagun-code/leetcode/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/shagun-code/leetcode/tree/master/1073-number-of-enclaves) |
+## Binary Search
+|  |
+| ------- |
+| [2591-frog-jump-ii](https://github.com/shagun-code/leetcode/tree/master/2591-frog-jump-ii) |
 <!---LeetCode Topics End-->
