@@ -101,17 +101,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shagun-code/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0975-range-sum-of-bst](https://github.com/shagun-code/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shagun-code/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/shagun-code/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shagun-code/leetcode/tree/master/0547-number-of-provinces) |
+| [0975-range-sum-of-bst](https://github.com/shagun-code/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1073-number-of-enclaves](https://github.com/shagun-code/leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shagun-code/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0975-range-sum-of-bst](https://github.com/shagun-code/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2591-frog-jump-ii](https://github.com/shagun-code/leetcode/tree/master/2591-frog-jump-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/shagun-code/leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
