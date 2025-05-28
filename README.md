@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/shagun-code/leetcode/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/shagun-code/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shagun-code/leetcode/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/shagun-code/leetcode/tree/master/0200-number-of-islands) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/shagun-code/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shagun-code/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shagun-code/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/shagun-code/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/shagun-code/leetcode/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/shagun-code/leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Search
