@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/shagun-code/leetcode/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/shagun-code/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shagun-code/leetcode/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shagun-code/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/shagun-code/leetcode/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/shagun-code/leetcode/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/shagun-code/leetcode/tree/master/0792-binary-search) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shagun-code/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shagun-code/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/shagun-code/leetcode/tree/master/0792-binary-search) |
 | [2591-frog-jump-ii](https://github.com/shagun-code/leetcode/tree/master/2591-frog-jump-ii) |
 ## Binary Search Tree
