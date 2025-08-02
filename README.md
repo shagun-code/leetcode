@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shagun-code/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/shagun-code/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shagun-code/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shagun-code/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shagun-code/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/shagun-code/leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/shagun-code/leetcode/tree/master/0455-assign-cookies) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shagun-code/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shagun-code/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shagun-code/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/shagun-code/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shagun-code/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shagun-code/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shagun-code/leetcode/tree/master/0547-number-of-provinces) |
 | [0975-range-sum-of-bst](https://github.com/shagun-code/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shagun-code/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/shagun-code/leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shagun-code/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shagun-code/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/shagun-code/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shagun-code/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -152,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shagun-code/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/shagun-code/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shagun-code/leetcode/tree/master/0547-number-of-provinces) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shagun-code/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/shagun-code/leetcode/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
