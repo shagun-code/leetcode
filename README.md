@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/shagun-code/leetcode/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/shagun-code/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/shagun-code/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shagun-code/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shagun-code/leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shagun-code/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/shagun-code/leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/shagun-code/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/shagun-code/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shagun-code/leetcode/tree/master/0547-number-of-provinces) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/shagun-code/leetcode/tree/master/0127-word-ladder) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shagun-code/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
