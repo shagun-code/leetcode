@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/shagun-code/leetcode/tree/master/0127-word-ladder) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shagun-code/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1508-longest-happy-prefix](https://github.com/shagun-code/leetcode/tree/master/1508-longest-happy-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -278,4 +279,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shagun-code/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/shagun-code/leetcode/tree/master/1508-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/shagun-code/leetcode/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/shagun-code/leetcode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
