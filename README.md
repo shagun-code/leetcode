@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shagun-code/leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/shagun-code/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shagun-code/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/shagun-code/leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shagun-code/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/shagun-code/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1008-binary-tree-cameras](https://github.com/shagun-code/leetcode/tree/master/1008-binary-tree-cameras) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/shagun-code/leetcode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/shagun-code/leetcode/tree/master/0127-word-ladder) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shagun-code/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shagun-code/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
