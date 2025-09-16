@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shagun-code/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/shagun-code/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shagun-code/leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shagun-code/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
