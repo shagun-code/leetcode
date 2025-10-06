@@ -329,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/shagun-code/leetcode/tree/master/1508-longest-happy-prefix) |
+## Database
+|  |
+| ------- |
+| [1625-group-sold-products-by-the-date](https://github.com/shagun-code/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
