@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shagun-code/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shagun-code/leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/shagun-code/leetcode/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/shagun-code/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/shagun-code/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/shagun-code/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0983-validate-stack-sequences](https://github.com/shagun-code/leetcode/tree/master/0983-validate-stack-sequences) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shagun-code/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shagun-code/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shagun-code/leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/shagun-code/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/shagun-code/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2591-frog-jump-ii](https://github.com/shagun-code/leetcode/tree/master/2591-frog-jump-ii) |
 ## Binary Search Tree
