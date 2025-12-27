@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shagun-code/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shagun-code/leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/shagun-code/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shagun-code/leetcode/tree/master/0070-climbing-stairs) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shagun-code/leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/shagun-code/leetcode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/shagun-code/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shagun-code/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1625-group-sold-products-by-the-date](https://github.com/shagun-code/leetcode/tree/master/1625-group-sold-products-by-the-date) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shagun-code/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
