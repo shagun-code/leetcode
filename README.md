@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/shagun-code/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/shagun-code/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/shagun-code/leetcode/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shagun-code/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -349,11 +350,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shagun-code/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shagun-code/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/shagun-code/leetcode/tree/master/1508-longest-happy-prefix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shagun-code/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shagun-code/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/shagun-code/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shagun-code/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Topological Sort
 |  |
 | ------- |
