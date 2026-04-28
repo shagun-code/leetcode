@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/shagun-code/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/shagun-code/leetcode/tree/master/1073-number-of-enclaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shagun-code/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shagun-code/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1582-design-browser-history](https://github.com/shagun-code/leetcode/tree/master/1582-design-browser-history) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shagun-code/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/shagun-code/leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/shagun-code/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shagun-code/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/shagun-code/leetcode/tree/master/1073-number-of-enclaves) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shagun-code/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/shagun-code/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shagun-code/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/shagun-code/leetcode/tree/master/1073-number-of-enclaves) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shagun-code/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shagun-code/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/shagun-code/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/shagun-code/leetcode/tree/master/1073-number-of-enclaves) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shagun-code/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/shagun-code/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shagun-code/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
@@ -391,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shagun-code/leetcode/tree/master/0022-generate-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shagun-code/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
