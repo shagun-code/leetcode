@@ -1,51 +1,37 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
+typedef pair<int,pair<int,int>>P;
     int minimumEffortPath(vector<vector<int>>& heights) {
-        int n = heights.size();
-        int m = heights[0].size();
-
-        // Min-heap: {effort, {row, col}}
-        priority_queue<pair<int,pair<int,int>>, 
-                       vector<pair<int,pair<int,int>>>, 
-                       greater<pair<int,pair<int,int>>>> pq;
-
-        // Distance matrix (effort to reach each cell)
-        vector<vector<int>> dist(n, vector<int>(m, INT_MAX));
-        dist[0][0] = 0;
-
-        pq.push({0, {0, 0}});
-
-        int dr[] = {-1, 0, 1, 0};
-        int dc[] = {0, 1, 0, -1};
-
-        while (!pq.empty()) {
-            auto it = pq.top();
+        int m=heights.size();
+        int n=heights[0].size();
+        vector<vector<int>>result(m,vector<int>(n,INT_MAX));
+        priority_queue<P,vector<P>,greater<P>>pq;
+        vector<vector<int>> dirs = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}}; // Added missing dirs
+        auto isSafe=[&](int x,int y){
+            return x>=0 && x<m && y>=0 && y<n;
+        };
+        result[0][0]=0;
+        pq.push({0,{0,0}});
+        while(!pq.empty()){
+            int diff=pq.top().first;
+            auto coord=pq.top().second;
             pq.pop();
-
-            int effort = it.first;
-            int r = it.second.first;
-            int c = it.second.second;
-
-            // If we reached destination, return effort
-            if (r == n-1 && c == m-1) return effort;
-
-            for (int i = 0; i < 4; i++) {
-                int newr = r + dr[i];
-                int newc = c + dc[i];
-
-                if (newr >= 0 && newr < n && newc >= 0 && newc < m) {
-                    int newEffort = max(effort, abs(heights[newr][newc] - heights[r][c]));
-
-                    if (newEffort < dist[newr][newc]) {
-                        dist[newr][newc] = newEffort;
-                        pq.push({newEffort, {newr, newc}});
-                    }
+            int x=coord.first;
+            int y=coord.second;
+            for(auto &dir : dirs){
+                int x_=x+dir[0];
+                int y_=y+dir[1];
+                if(isSafe(x_,y_)){
+int absDiff=abs(heights[x][y]-heights[x_][y_]);
+int maxDiff=max(diff,absDiff);
+if(result[x_][y_]>maxDiff){
+    result[x_][y_]=maxDiff;
+    pq.push({maxDiff,{x_,y_}});
+}
                 }
             }
         }
-        return 0; // fallback (should never hit)
+        return result[m-1][n-1];
     }
+      
 };
